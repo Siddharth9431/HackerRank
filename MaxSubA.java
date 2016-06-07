@@ -8,8 +8,6 @@ public class MaxSubA {
 	
 	public int contiguous(int[] a) {
 		
-		
-		
 		int maxSum = 0;
 		int currentSum = 0;
 		
